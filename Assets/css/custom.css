@@ -1,0 +1,77 @@
+input:disabled, select:disabled, {
+    background: #ffffff !important;
+}
+.border-light-Blue {
+    border: 1px solid #17a2b8 !important;
+}
+.text-brown{
+    color: #f18024 !important;
+}
+.rounded-xl{
+    border-radius: 1.1em;
+}
+.font-28{
+    font-size: 1.75rem; /*approx 28px*/
+}
+.font-24{
+    font-size: 1.5rem; /*approx 24px*/
+}
+.opacity-80{
+    opacity: 0.85 !important;
+}
+.min-h-170{
+    min-height: 170px !important;
+}
+.txtedit{
+    display: none;
+    width: 98%;
+}
+.bg-light-brown{
+    background-color: #EBC85E !important;
+}
+.bg-light-blue{
+    background-color: #5AB6DF !important;
+}
+.bg-light-green{
+    background-color: #65CEA7 !important;
+}
+.bg-dark-blue{
+    /*background-color: #001c40 !important;*/
+    background-color: #071749 !important;
+    /*background-color: #223F4A !important;*/
+}
+.bg-grey-green{
+    background-color: #223f4a !important;
+    /*color: #ffffff;*/
+}
+/*.nav-item a:hover {
+    background-color: #688e93 !important;
+    color: #ffffff !important;
+}*/
+.alpha-Circle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 7px;
+    background: #EBC85E;
+    color: #ffffff;
+    text-align: center;
+    font: 0.8em Arial, sans-serif;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 20rem;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
+.borderless td, .borderless th {
+    border: none;
+}
+.table-responsive {
+    display: table;
+}
+.y1LabelLayer {
+    margin-bottom: 10rem;
+}
